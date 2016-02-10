@@ -3,7 +3,7 @@
 	'use strict';
 
 	angular
-	.module('app', [])
+	.module('app')
 	.directive('bootstrapBtn', bootstrapBtn);
 
 	function bootstrapBtn(){
